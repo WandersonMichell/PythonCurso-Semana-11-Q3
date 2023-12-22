@@ -1,7 +1,1 @@
--  **Escreva um programa que leia uma quantidade indefinida de números inteiros positivos terminada pelo
-número 0 (zero). Ao final, o programa deve mostrar o maior e o menor de todos os números lidos
-(excluindo o zero).**
-
-
-
-    **Dica: use repetição com teste no final**
+-   Este programa solicita ao usuário a entrada de números até que o usuário insira zero (0). Em seguida, calcula a média dos números fornecidos, excluindo o zero da contagem.
